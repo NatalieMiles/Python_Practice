@@ -32,5 +32,3 @@ while player == False:
     #player was set to True, but we want it to be False so the loop continues
     player = False
     computer = player_input[randint(0,2)]
-
-input("Enter any key to exit.");
